@@ -1,0 +1,299 @@
+{
+  "jsonfileName": "1ModelVest004",
+  "modelPluginData": [
+    {
+      "tag": null,
+      "name": "1ModelVest004",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "2AllCloth",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "3ALLhoujin",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "4houbei1",
+      "textCode": "700300100",
+      "textName": "双片无褶",
+      "modelPartType": "houpian"
+    },
+    {
+      "tag": "part",
+      "name": "5polySurface1",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "6polySurface2",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "7polySurface7",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "8polySurface8",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "9polySurface9",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "10polySurface10",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "11houbei2",
+      "textCode": "700300200",
+      "textName": "单片无褶",
+      "modelPartType": "houpian"
+    },
+    {
+      "tag": "Untagged",
+      "name": "12polySurface3",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "13polySurface4",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "14polySurface11",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "15polySurface12",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "16polySurface13",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "17polySurface14",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "18houbei3",
+      "textCode": "700300300",
+      "textName": "单片双褶",
+      "modelPartType": "houpian"
+    },
+    {
+      "tag": "Untagged",
+      "name": "19polySurface5",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "20polySurface6",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "21polySurface15",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "22polySurface16",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "23polySurface17",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "24polySurface18",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "25ALLlingzi",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "26GameObject",
+      "textCode": "700100100",
+      "textName": "青果领",
+      "modelPartType": "lingzi"
+    },
+    {
+      "tag": "part",
+      "name": "27lingzi1",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "28GameObject (1)",
+      "textCode": "700100200",
+      "textName": "平驳领",
+      "modelPartType": "lingzi"
+    },
+    {
+      "tag": "part",
+      "name": "29lingzi2",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "30GameObject (2)",
+      "textCode": "700100300",
+      "textName": "戗驳领",
+      "modelPartType": "lingzi"
+    },
+    {
+      "tag": "part",
+      "name": "31lingzi3",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "32ALLxiakoudai",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "33GameObject",
+      "textCode": "700200100",
+      "textName": "方口袋无盖",
+      "modelPartType": "xiakoudai"
+    },
+    {
+      "tag": "part",
+      "name": "34xiakoudai1",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "35GameObject (1)",
+      "textCode": "700200200",
+      "textName": "六角袋无盖",
+      "modelPartType": "xiakoudai"
+    },
+    {
+      "tag": "part",
+      "name": "36xiakoudai2",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "37GameObject (2)",
+      "textCode": "700200300",
+      "textName": "假口袋无盖",
+      "modelPartType": "xiakoudai"
+    },
+    {
+      "tag": "part",
+      "name": "38xiakoudai3",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "39shirt",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "DIYKOUZI",
+      "name": "40niukou",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "41main",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "DIYKOUYAN",
+      "name": "42kouyan",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "jsonfileName": "1ModeCololSuit0007",
+  "modelPluginData": [
+    {
+      "tag": null,
+      "name": "1ModeCololSuit0007",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "2AllCloth",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "3ALLhoujin",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "4houbei1",
+      "textCode": "500300100",
+      "textName": "无叉有中线",
+      "modelPartType": "houpian"
+    },
+    {
+      "tag": "part",
+      "name": "5polySurface59",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "6polySurface60",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "7houbei2",
+      "textCode": "500300300",
+      "textName": "单叉有中线",
+      "modelPartType": "houpian"
+    },
+    {
+      "tag": "part",
+      "name": "8polySurface57",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "9polySurface58",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "10houbei3",
+      "textCode": "500300200",
+      "textName": "单叉相叠",
+      "modelPartType": "houpian"
+    },
+    {
+      "tag": "part",
+      "name": "11polySurface55",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "12polySurface56",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "13ALLlingzi",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "14GameObject",
+      "textCode": "500100100",
+      "textName": "平驳领",
+      "modelPartType": "lingzi"
+    },
+    {
+      "tag": "part",
+      "name": "15lingzi1",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "16GameObject (1)",
+      "textCode": "500100200",
+      "textName": "戗驳领小",
+      "modelPartType": "lingzi"
+    },
+    {
+      "tag": "part",
+      "name": "17lingzi2",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "18GameObject (2)",
+      "textCode": "500100300",
+      "textName": "青果领",
+      "modelPartType": "lingzi"
+    },
+    {
+      "tag": "part",
+      "name": "19lingzi3",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "20ALLxiongkoudai",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "21GameObject",
+      "textCode": "500400100",
+      "textName": "正常",
+      "modelPartType": "xiongkoudai"
+    },
+    {
+      "tag": "part",
+      "name": "22shoujindai1",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "23shoujindai2",
+      "textCode": "500400200",
+      "textName": "假口袋有盖",
+      "modelPartType": "xiongkoudai"
+    },
+    {
+      "tag": "part",
+      "name": "24polySurface25",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "25polySurface26",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "26shoujindai3",
+      "textCode": "500400300",
+      "textName": "短口袋",
+      "modelPartType": "xiongkoudai"
+    },
+    {
+      "tag": "part",
+      "name": "27polySurface27",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "28polySurface28",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "29polySurface29",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "30ALLxiakoudai",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "31Pocket_01",
+      "textCode": "500200100",
+      "textName": "圆六角袋盖",
+      "modelPartType": "xiakoudai"
+    },
+    {
+      "tag": "part",
+      "name": "32polySurface22",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "33polySurface23",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "34Pocket_02",
+      "textCode": "500200200",
+      "textName": "小圆袋盖",
+      "modelPartType": "xiakoudai"
+    },
+    {
+      "tag": "part",
+      "name": "35polySurface20",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "36polySurface21",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "37Pocket_03",
+      "textCode": "500200300",
+      "textName": "小圆袋拼接盖",
+      "modelPartType": "xiakoudai"
+    },
+    {
+      "tag": "part",
+      "name": "38polySurface16",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "39polySurface17",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "40polySurface18",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "41polySurface19",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "42MainSuit",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "DIYKOUZI",
+      "name": "43niukou",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "DIYKOUYAN",
+      "name": "44kouyan",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": null,
+      "name": "45main",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "46_polySurface1",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "47_polySurface3",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "48polySurface12",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "49polySurface13",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "50polySurface14",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    },
+    {
+      "tag": "part",
+      "name": "51polySurface15",
+      "textCode": null,
+      "textName": null,
+      "modelPartType": null
+    }
+  ]
+}
